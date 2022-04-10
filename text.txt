@@ -1,6 +1,6 @@
 Contexte
-Ceci est une campagne de phishing fictive faite par le CPNV organisée par le support informatique.
-Pas de panique aucune donnée n'a été volée, votre ordinateur n'est pas en danger. 
+Ceci est une campagne de phishing fictive au sein du CPNV organisée par le support informatique.
+Pas de panique, aucune donnée n'a été volée, votre ordinateur n'est pas en danger. 
 
 Conseils
 - Aucune entreprise ne vous demandera jamais votre mot de passe
@@ -8,3 +8,9 @@ Conseils
 - Toujours vérifier l'URL et l'expéditeur de l'email
 
 Réalisé dans le cadre d'un TIP, Samuel Roland, Altin Zili, Justin Ferrara et Jordan Schott. mai 2022.
+
+
+---
+Proposition amélioration
+
+ avant de cliquer sur un lien ou de répondre à une demande non désirée.
