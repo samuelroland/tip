@@ -1,34 +1,12 @@
-
-
-body{
+body {
 	background-color: black;
-    font-family: 'Genos', sans-serif;
-    width:100%;
+	font-family: 'Genos', sans-serif;
+	width: 100%;
+	color: rgb(207, 48, 48);
 }
 
 
-h1{
-    color: rgb(207, 48, 48);
-    font-size: 450% !important;
-}
-
-h2{
-    color: rgb(207, 48, 48);
-    font-size: 350% !important;
-}
-
-h3{
-    color: rgb(207, 48, 48);
-    font-size: 200% !important;
-}
-
-p{
-    color: rgb(207, 48, 48);
-    font-size: 150% !important;
-}
-
-li{
-    color: rgb(207, 48, 48);
+li {
 	list-style: circle;
 	margin-left: 30px;
 }
